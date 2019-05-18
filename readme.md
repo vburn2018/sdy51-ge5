@@ -1,1 +1,3 @@
-test
+Χρησιμοποιήθηκαν οι τεχνολογίες (στις πρόσφατες εκδόσεις τους) web server (Apache), SQL server (MySQL), PHP, Javascript (και το JQuery API), HTML, CSS, οι χάρτες OpenStreepMap και το css/javascript framework Bootstrap. Κατά την ανάπτυξη της εφαρμογής έγινε χρήση του πακέτου εφαρμογών XAMPP και ο Notepad++ editor. Η εφαρμογή δοκιμάστηκε σε περιβάλλον Windows και Android και σε όλους τους δημοφιλείς browsers.
+
+Για να 'τρέξει΄ η εφαρμογή θα πρέπει να φιλοξενηθεί σε webserver (με τις τεχνολογίες που αναφέρθηκαν) και να γίνει import της βάσης (/sql/senior_care.sql) σε MySql server (τα credentials, είναι τα default και αναφέρονται στο αρχείο conf/conf.php). Η εφαρμογή είναι progressive web app και σε όλες τις οθόνες εφαρμόστηκε responsive σχεδιασμός. 
